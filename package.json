@@ -1,0 +1,33 @@
+{
+  "name": "0cert-middleware",
+  "version": "1.0.0",
+  "description": "Drop-in Express middleware for 0Cert identity-based encryption. Zero certificates. Zero renewals.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "0cert",
+    "ibc",
+    "identity-based-cryptography",
+    "certificateless",
+    "ssl-replacement",
+    "security",
+    "encryption",
+    "express",
+    "middleware"
+  ],
+  "author": "0Cert <hello@0cert.io>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0cert/middleware"
+  },
+  "homepage": "https://0cert.io",
+  "bugs": {
+    "url": "https://github.com/0cert/middleware/issues"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
